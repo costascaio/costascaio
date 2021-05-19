@@ -8,5 +8,5 @@ a plataform that is a public cervical cell image database aiming supporting cerv
 - Private project related to fantasy league games.
 
 ### 💬 Get in touch
-- Linkedin Profile<a href="https://www.linkedin.com/in/caio-costa-84134a160/">costascaio</a>
+- Linkedin Profile: <a href="https://www.linkedin.com/in/caio-costa-84134a160/">Caio Costa</a>
 - E-mail: <a href="mailto:caiosc99@hotmail.com">caiosc99@hotmail.com</a>
