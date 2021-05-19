@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello Hello, Im Caio 👋
 
-<!--
-**costascaio/costascaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I am a Computer Science student at UFOP. Im currently working on the CRIC Searchable Image Database project, 
+a plataform that is a public cervical cell image database aiming supporting cervical cancer analysis of Pap Smear.
 
-Here are some ideas to get you started:
+### 💻 I'm working on
+- <a href="https://playground.database.cric.com.br/">CRIC Searchable Image Database </a>.
+- Private project related to fantasy league games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Get in touch
+<a href="https://www.linkedin.com/in/caio-costa-84134a160/">
+  <img align="left" alt="Darshan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/costascaio">
+  <img align="left" alt="Darshan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
