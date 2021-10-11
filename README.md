@@ -1,7 +1,7 @@
 ### Hello Hello, Im Caio 👋
 
 Welcome to my GitHub profile. I am a Computer Science student at UFOP. Im currently working on the CRIC Searchable Image Database project, 
-a plataform that is a public cervical cell image database aiming supporting cervical cancer analysis of Pap Smear.
+a plataform that is a public cervical cell image database aiming supporting cervical cancer analysis of Pap Smear. Also working with PHP development at eStracta.
 
 ### 💻 I'm working on
 - <a href="https://playground.database.cric.com.br/">CRIC Searchable Image Database</a>.
