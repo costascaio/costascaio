@@ -7,7 +7,6 @@ Currently I'm working at Tembici as Data Engineer using techonologies such as Ai
 
 ### 💻 Worked on
 - <a href="https://playground.database.cric.com.br/">CRIC Searchable Image Database</a>.
-- Private project related to fantasy league games.
 
 ### 💻 Working at
 - <a href="https://www.tembici.com.br/pt/">Tembici</a>.
