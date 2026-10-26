@@ -7,6 +7,7 @@ Currently I'm working at Gringo as Data Engineer using techonologies such as Air
 
 ### 💻 Worked on
 - <a href="https://playground.database.cric.com.br/">CRIC Searchable Image Database</a>.
+- <a href="https://github.com/rodrigogribeiro/automata-theory">Automata Theory</a>.
 
 ### 💻 Working at
 - <a href="https://gringo.com.vc/">Gringo</a>.
